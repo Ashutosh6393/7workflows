@@ -83,6 +83,7 @@ export default function ServicesSection() {
               size="lg"
               variant="secondary"
               className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-4 rounded-full text-lg font-semibold transition-all duration-300 hover:shadow-lg hover:scale-105 group"
+              asChild
             >
                <Link href={`mailto:ashutoshv262@gmail.com`}>
                 Start Your AI Journey
