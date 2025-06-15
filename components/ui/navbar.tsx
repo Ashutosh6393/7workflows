@@ -20,7 +20,7 @@ export default function Navbar() {
           </div>
           <div className="hidden md:block">
             <Button variant="default" size="sm" className="rounded-xl" asChild>
-              <Link href={`mailto:ashutoshv262@gmail.com`}>
+              <Link href={`mailto:work@sevenworkflows.com`}>
                 Get in Touch
               </Link>
             </Button>

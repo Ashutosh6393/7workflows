@@ -25,7 +25,7 @@ export default function Footer() {
               </Link>
               <Link 
                 target="_blank"
-                href="mailto:ashutoshv262@gmail.com" 
+                href="mailto:work@sevenworkflows.com" 
                 className="bg-gray-800 p-3 rounded-full hover:bg-blue-600 transition-colors duration-300"
               >
                 <Mail className="w-5 h-5" />
